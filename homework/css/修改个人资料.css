@@ -1,0 +1,23 @@
+.ui.center.aligned.header{
+    color: red;
+}
+
+.ui.center.aligned.container > .ui.basic.segment > .ui.tiny.images > .ui.image1{
+    border: solid 2px red;
+}
+
+.ui.basic.center.aligned.segment > .user.icon{
+    color:red;
+}
+.ui.basic.center.aligned.segment > .mail.icon{
+    color:red;
+}.ui.basic.center.aligned.segment > .lock.icon{
+    color:red;
+}.ui.basic.center.aligned.segment > .lock.icon{
+    color:red;
+}
+
+.ui.basic.center.aligned.segment > .ui.fluid.button{
+    background-color: red;
+    color: white;
+}
